@@ -6,7 +6,7 @@
 🌱 Learning Deep Learning, Generative AI & Agentic AI  
 🤝 Open to collaborate on AI/ML/DL, Data Science, and Computer Vision  
 💬 Ask me about **Python, SQL, C, Kaggle & Google Colab**  
-📫 Reach me at: **aurangzaib21@gmail.com.com**  
+📫 Reach me at: **aurangzaib21@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/aurang-zaib-1a5136336/) | [Kaggle](https://www.kaggle.com/codingwithwadod)  
 
 ## 🛠️ Tech Stack  
